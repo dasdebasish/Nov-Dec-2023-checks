@@ -1,1 +1,2 @@
 o2-analysis-dq-table-reader -b --configuration json://configuration.json --aod-file @input_data.txt
+o2-analysis-dq-table-reader -b --configuration json://configuration_table_reader.json --aod-file AO2D_small_no_cuts.root
