@@ -1,0 +1,1 @@
+o2-analysis-dq-table-reader -b --configuration json://configuration.json --aod-file @input_data.txt
